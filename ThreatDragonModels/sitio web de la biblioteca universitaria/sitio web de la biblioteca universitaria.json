@@ -965,9 +965,19 @@
           }
         ],
         "description": "DFD "
+      },
+      {
+        "id": 1,
+        "title": "Diagrama de flujo de datos de inicio de sesión del usuario para el sitio web de la biblioteca universitaria",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.2.0",
+        "cells": [],
+        "description": "DFD login"
       }
     ],
-    "diagramTop": 1,
+    "diagramTop": 2,
     "reviewer": "Ethan Benítez",
     "threatTop": 13
   }
